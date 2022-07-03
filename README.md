@@ -2,7 +2,7 @@
 
 Apaixonada pela área de Análise de Dados.
 
-- 🔭 Atualmente me graduando em engenharia Mecânica pela UFPB;
+- 🔭 Atualmente me graduando em Engenharia Mecânica pela UFPB;
 - 🌱 Estudando a linguagem Python e aperfeiçoando meu inglês; 
 - 😄 Já atuei como Projetista Mecânico(CAD) e na área de engenharia de projetos Industriais voltado para o setor de Energia, dá uma olhadinha no meu linkedin.
 
