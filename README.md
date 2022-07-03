@@ -1,4 +1,4 @@
-### Olá👋 me chamo Zaine Vasconcelos, bem-vindo(a) ao meu Github!
+### Olá👋 sou Zaine Vasconcelos, bem-vindo(a) ao meu Github!
 
 Apaixonada pela área de Análise de Dados.
 
