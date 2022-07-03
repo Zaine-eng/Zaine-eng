@@ -9,6 +9,6 @@ Apaixonada pela área de Análise de Dados.
 
 <div align="center">
   <a href="https://github.com/Zaine-eng">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Zaine-eng&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaine-eng&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zaine-eng&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaine-eng&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
