@@ -3,7 +3,7 @@
 Apaixonada pela área de Análise de Dados.
 
 - 🔭 Atualmente me graduando em Engenharia Mecânica pela UFPB;
-- 🌱 Me interesso por Python, SQL e Power BI.
+- 🌱 Podemos trocar conhecimentos sobre Python, SQL e Power BI.
 
 
 
