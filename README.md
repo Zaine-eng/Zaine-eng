@@ -1,9 +1,14 @@
-### Olá👋 Eu sou Zaine Vasconcelos, bem-vindo(a) ao meu Github!
+### bem-vindo(a)!
 
-Apaixonada pela área de Análise de Dados.
+Sobre mim:
 
-- 🔭 Atualmente me graduando em Engenharia Mecânica pela UFPB;
-- 🌱 Podemos trocar conhecimentos sobre Python, SQL e Power BI.
+Sou uma Pernambucana morando em joão Pessoa na Paraíba, faço Eng. Mecânica na UFPB e sinto que demorei tempo demais para entrar na área de análise de dados, pois é um mundo apaixonante e com grandes possibilidades.😄
+
+
+Formações:
+
+* Engenharia Mecânica (UFPB) - Em andamento.
+* Projetista Mecânica Avançado - Solidworks (Benzor Engenharia) - Concluído em 2019.
 
 
 
