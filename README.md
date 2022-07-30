@@ -7,6 +7,7 @@ Sou uma Pernambucana morando em joão Pessoa na Paraíba, faço Eng. Mecânica n
 
 Formações:
 
+* Analista de dados - em andamento.
 * Engenharia Mecânica (UFPB) - Em andamento.
 * Projetista Mecânica Avançado - Solidworks (Benzor Engenharia) - Concluído em 2019.
 
