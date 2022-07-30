@@ -13,7 +13,6 @@ Formação
 
 * Python para análise de dados;
 * SQL Server Management Studio e SQL - AWS/ATHENA; 
-* Dashboards - Power BI e Google Studio;
 * Machine Learning e Deep Learning. 
 
 
