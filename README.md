@@ -9,6 +9,10 @@ Formação:
 
 * Engenharia Mecânica (UFPB) - Em andamento.
 
+Bootcamps:
+
+* Gestor(a) de Business Intelligence (XP Educação) - Em andamento.
+
 ### Repositórios
 
 * Python para análise de dados;
