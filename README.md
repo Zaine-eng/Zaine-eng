@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-Sou uma Pernambucana morando em joão Pessoa na Paraíba, faço Eng. Mecânica na UFPB e sinto que demorei tempo demais para entrar na área de análise de dados, pois é um mundo apaixonante e com grandes possibilidades.😄
+Sou uma Pernambucana morando em João Pessoa na Paraíba, faço Eng. Mecânica na UFPB e sinto que demorei tempo demais para entrar na área de análise de dados, pois é um mundo apaixonante e com grandes possibilidades.😄
 
 
 Formação:
