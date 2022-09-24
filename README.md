@@ -12,12 +12,16 @@ Formação:
 Bootcamps:
 
 * Gestor(a) de Business Intelligence (XP Educação) - Em andamento.
+* Cientista de Dados (XP Educação) - Em andamento.
+
 
 ### Repositórios
 
+* Dashboard - Power BI;
 * Python para análise de dados;
 * SQL Server Management Studio e SQL - AWS/ATHENA; 
-* Machine Learning e Deep Learning. 
+* Machine Learning e Deep Learning.
+
 
 
 
