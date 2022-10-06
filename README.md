@@ -11,7 +11,6 @@ Formação:
 
 Bootcamps:
 
-* Gestor(a) de Business Intelligence (XP Educação) - Em andamento.
 * Cientista de Dados (XP Educação) - Em andamento.
 
 
