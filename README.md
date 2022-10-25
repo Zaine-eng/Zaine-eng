@@ -7,7 +7,7 @@ Sou uma Pernambucana morando em João Pessoa na Paraíba, faço Eng. Mecânica n
 
 Formação:
 
-* Engenharia Mecânica (UFPB) - Em andamento.
+* Engenharia Mecânica (8º Periodo | UFPB) - Em andamento.
 
 Bootcamps:
 
